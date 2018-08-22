@@ -1,3 +1,5 @@
+# This repository has been archived.
+
 rsync Cookbook
 ==============
 [![Build Status](https://secure.travis-ci.org/opscode-cookbooks/rsync.png?branch=master)](http://travis-ci.org/opscode-cookbooks/rsync)
